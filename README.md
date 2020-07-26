@@ -4,7 +4,7 @@
     青峰Flutter视频播放软件 1.1.5 安卓版 (20200723)
     QQ: 153248043
     Email: ybmj@vip.163.com
-    Blog:
+    Blog: [wechat_camera_picker](https://pub.dev/packages/wechat_camera_picker)
 #### [https://www.cnblogs.com/ybmj/](https://www.cnblogs.com/ybmj/)
 
 ## 2、软件简介
